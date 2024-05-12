@@ -2,7 +2,7 @@
 
 ![banner (1)](assets/images/banner-1.png)
 
-This repository contains the code for a personal portfolio website. It showcases the author's resume, projects, blog posts, and contact information.
+This repository contains the code for a personal portfolio website. It showcases the my resume, projects, blog posts, and contact information.
 
 ## Table of Contents
 
@@ -17,19 +17,20 @@ This repository contains the code for a personal portfolio website. It showcases
 
 ## Description
 
-This website serves as a digital portfolio for the author to showcase their professional background, skills, projects, and blog posts. It provides visitors with an overview of the author's accomplishments, experiences, and interests.
+This website serves as a digital portfolio to showcase my professional background, skills, projects, and blog posts. It provides visitors with an overview of the my accomplishments, experiences, and interests.
 
 ## Features
 
 - Resume section with education and experience timelines.
 - Portfolio section showcasing various projects with descriptions and links.
 - Blog section displaying recent blog posts with summaries and publication dates.
-- Contact section for reaching out to the author.
+- Contact section for reaching out to me.
 - Responsive design for compatibility across different devices.
 
 ## Screenshots
-
-*Insert screenshots of the website here*
+![banner (1)](assets/images/banner-2.png)
+![banner (1)](assets/images/banner-4.png)
+![banner (1)](assets/images/banner-3.png)
 
 ## Installation
 
@@ -41,14 +42,14 @@ To run this website locally, follow these steps:
 
 ## Usage
 
-After installation, you can browse through the different sections of the website to explore the author's resume, projects, blog posts, and contact information. Click on the links provided to view more details or external resources.
+After installation, you can browse through the different sections of the website to explore the my resume, projects, blog posts, and contact information. Click on the links provided to view more details or external resources.
 
 ## Technologies
 
 The website is built using the following technologies:
 
 - HTML5
-- CSS3 (with Sass)
+- CSS3
 - JavaScript
 - Ionicons (for icons)
 
